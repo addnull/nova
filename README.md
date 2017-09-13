@@ -1,3 +1,3 @@
 # NOTE
 
-Thia repo is moved to 'https://github.com/hardboiledsmith/nova'.
+This repo is moved to 'https://github.com/hardboiledsmith/nova'.
